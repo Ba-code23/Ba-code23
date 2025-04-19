@@ -31,11 +31,10 @@
 
 <h3 align="center">🌟 Meus projetos em destaque:</h3>
 <ul>
-  <li><a href="https://github.com/Ba-code23/projeto1](https://ba-code23.github.io/projeto-gta">📌 Projeto 1 - Clone site GTA</a></li>
-  <li><a href="https://github.com/Ba-code23/projeto2](https://ba-code23.github.io/lading-page-2b">📌 Projeto 2 - Landing page 2B</a></li>
-  <li><a href="https://github.com/Ba-code23/projeto3](https://ba-code23.github.io/projeto-xdevs">📌 Projeto 3 -X-Devs</a></li>
+  <li><a href="https://ba-code23.github.io/projeto-gta" target="_blank">📌 Projeto 1 - Clone site GTA</a></li>
+  <li><a href="https://ba-code23.github.io/lading-page-2b" target="_blank">📌 Projeto 2 - Landing page 2B</a></li>
+  <li><a href="https://ba-code23.github.io/projeto-xdevs" target="_blank">📌 Projeto 3 - X-Devs</a></li>
 </ul>
-
 ---
 
 <h3 align="center">📫 Vamos nos conectar!</h3>
