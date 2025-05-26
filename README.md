@@ -31,8 +31,8 @@
 
 <h3 align="center">🌟 Meus projetos em destaque:</h3>
 <ul>
-  <li><a href="https://ba-code23.github.io/projeto-gta" target="_blank">📌 Projeto 1 - Clone site GTA</a></li>
-  <li><a href="https://ba-code23.github.io/lading-page-2b" target="_blank">📌 Projeto 2 - Landing Page 2B</a></li>
+  <li><a href="https://ba-code23.github.io/2b-dev-site" target="_blank">📌 Projeto 1 - Site 2B Dev</a></li>
+  <li><a href="https://ba-code23.github.io/projeto-gta" target="_blank">📌 Projeto 2 - Clone site GTA</a></li>
   <li><a href="https://ba-code23.github.io/devtasks-sistema-de-tarefas/" target="_blank">📌 Projeto 3 - DevTasks sistema de tarefas</a></li>
 </ul>
 ---
