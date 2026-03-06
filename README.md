@@ -39,9 +39,6 @@
 
 <h3 align="center">📫 Vamos nos conectar!</h3>
 <p align="center">
-  <a href="https://www.tiktok.com/@2b_code" target="_blank">
-    <img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
   <a href="https://discord.gg/barbara.dev" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
